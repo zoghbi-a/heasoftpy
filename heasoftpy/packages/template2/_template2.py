@@ -1,6 +1,6 @@
 
 # the main task method
-def run_sample(params, logger):
+def run_template2(params, logger):
     """Run a task sample"""
     
     logger.info(f"Resetting the foo parameter from {params['foo']} to {params['bar']}.")
